@@ -8,7 +8,7 @@ The `Taskfile.yml` in this repository contains a task named `update-repos` that 
 4. Open your terminal and navigate to any directory.
 5. Run `task update-repos` to execute the `update-repos` task.
 
-## Warning
+## Disclaimer
 
 I am not responsible for any damage caused by the usage of this task. Use it at your own risk.
 
