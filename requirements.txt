@@ -1,0 +1,6 @@
+streamlit
+pylint
+pytest-cov
+pytest
+black
+mypy
